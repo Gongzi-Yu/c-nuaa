@@ -38,4 +38,5 @@ int main()
 	scanf("%s", a);
 	if (palin(a)) printf("yes");
 	else printf("no");
+	return 0;
 }
