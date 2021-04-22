@@ -14,8 +14,9 @@ void statistic( int *a, int n, int *posinum_ptr, int *neganum_ptr)
 int main()
 {
     int a[10];
-    int i,posi_num,nega_num;
+    int i,posi_num = 0,nega_num = 0;
     for(i=0; i<10; i++) scanf("%d", &a[i]);
     statistic(a, 10, &posi_num, &nega_num);
     printf("posi_num: %d, nega_num: %d",posi_num,nega_num);
+    return 0;
 }

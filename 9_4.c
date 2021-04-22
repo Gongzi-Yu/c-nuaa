@@ -27,4 +27,5 @@ int main()
     printf("\n");
     rotateLeft(a,8,k);
     for(i = 0; i < 8; i++) printf("%d\t",a[i]);
+    return 0;
 }
