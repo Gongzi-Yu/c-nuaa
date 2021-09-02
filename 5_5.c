@@ -1,3 +1,4 @@
+// 求Hermite多项式的第n项的值
 #include <stdio.h>
 
 double hermite(int n, double x)

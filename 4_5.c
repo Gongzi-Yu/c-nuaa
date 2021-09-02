@@ -1,9 +1,10 @@
+// Í¬åŒ4_4
 #include <stdio.h>
 
 int main()
 {
 	char scare;
-	printf("ÇëÊäÈë¿¼ºËµÈ¼¶£¨A~E£©£º\n");
+	printf("è¯·è¾“å…¥è€ƒæ ¸ç­‰çº§ï¼ˆA~Eï¼‰ï¼š\n");
 	scanf("%c", &scare);
 	switch (scare)
 	{

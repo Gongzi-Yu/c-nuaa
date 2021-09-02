@@ -1,3 +1,4 @@
+// 将一个整数x逆向输出
 #include <stdio.h>
 
 void pr_rev(int x)

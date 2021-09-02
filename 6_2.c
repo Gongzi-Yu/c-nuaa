@@ -1,3 +1,4 @@
+// 宏定义——求两点之间的距离
 #include <stdio.h>
 #include <math.h>
 

@@ -1,3 +1,4 @@
+// 计算分数数列前20项之和
 #include <stdio.h>
 
 int main()

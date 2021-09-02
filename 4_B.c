@@ -1,3 +1,4 @@
+// 输出所有四位数中的逆序数
 #include <stdio.h>
 
 int main()

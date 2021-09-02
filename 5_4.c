@@ -1,3 +1,4 @@
+// 求两个正整数的最大公约数
 #include <stdio.h>
 
 int gcd(int x, int y)

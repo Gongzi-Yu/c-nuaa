@@ -1,3 +1,4 @@
+// è®¡ç®—PI
 #include <stdio.h>
 
 int main()
@@ -5,7 +6,7 @@ int main()
 	int n, i, t;
 	double t1, t2, pi;
 	do {
-		printf("ÇëÊäÈëÒ»¸öÕûÊı£º");
+		printf("è¯·è¾“å…¥ä¸€ä¸ªæ•´æ•°ï¼š");
 		t = scanf("%d", &n);
 		pi = 1;
 		for (i = 1; i <= n; i++)
@@ -14,6 +15,6 @@ int main()
 			t2 = 2.0 * i / (2.0 * i + 1);
 			pi *= t1 * t2;
 		}
-		printf("PIµÄÖµÎª£º%lf\n", 2 * pi);	
+		printf("PIçš„å€¼ä¸ºï¼š%lf\n", 2 * pi);	
 	} while (t == 1);
 }

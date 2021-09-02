@@ -1,3 +1,4 @@
+// 计算1~100内奇数的和
 #include <stdio.h>
 
 int main()

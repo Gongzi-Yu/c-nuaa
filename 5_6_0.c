@@ -1,3 +1,8 @@
+// 输出图形
+/*
+i表示行数，其值为1~n。对于第i行，首先输出i-1个空格，
+然后输出n-i+1个*，最后输出换行
+*/
 #include <stdio.h>
 
 void printTriangle(int n)

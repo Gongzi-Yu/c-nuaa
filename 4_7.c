@@ -1,3 +1,4 @@
+// è®¡ç®—1~nçš„é˜¶ä¹˜ä¹‹å’Œ
 #include <stdio.h>
 
 int main()
@@ -5,7 +6,7 @@ int main()
 	int n,i,j;
 	double sum = 0, t;
 
-	printf("ÇëÊäÈëÒ»¸öÕûÊı£º");
+	printf("è¯·è¾“å…¥ä¸€ä¸ªæ•´æ•°ï¼š");
 	scanf("%d", &n);
 
 	for (i = 1; i <= n; i++)

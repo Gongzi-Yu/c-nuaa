@@ -1,3 +1,4 @@
+// 循环输入自变量，输出因变量（为分段函数）
 #include <stdio.h>
 
 int main()

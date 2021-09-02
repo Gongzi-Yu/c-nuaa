@@ -1,3 +1,4 @@
+// 计算PI，原理与4_8不同
 #include <stdio.h>
 
 int main()
@@ -13,6 +14,6 @@ int main()
 		t = 1.0 / (2.0 * i - 1);
 		i++;
 	} while (t >= 1.0e-6);
-	printf("PI��ֵΪ��%lf", 4 * pi);
+	printf("PI的值为：%lf", 4 * pi);
 	
 }

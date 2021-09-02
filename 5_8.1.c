@@ -1,3 +1,4 @@
+// 多文件组织
 #include <stdio.h>
 
 int fact(int);

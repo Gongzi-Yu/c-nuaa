@@ -1,9 +1,10 @@
+// 输入一个考核等级，输出对应的成绩
 #include <stdio.h>
 
 int main()
 {
 	char scare;
-	printf("�����뿼�˵ȼ���A~E����");
+	printf("请输入考核等级（A~E）：");
 	scanf("%c", &scare);
 	if (scare == 'a' || scare == 'A')
 		printf("90~100");

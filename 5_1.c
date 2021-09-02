@@ -1,3 +1,4 @@
+// 求出100~200内的素数，并输出素数的个数
 #include <stdio.h>
 #include <math.h>
 

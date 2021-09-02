@@ -1,3 +1,4 @@
+// 组合数的计算
 #include <stdio.h>
 
 int fact(int x)

@@ -1,3 +1,4 @@
+// 验证哥德巴赫猜想
 #include <stdio.h>
 #include <math.h>
 
