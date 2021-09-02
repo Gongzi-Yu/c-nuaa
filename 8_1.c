@@ -1,3 +1,4 @@
+// ç»“æ„ä½“çš„å®šä¹‰ä¸è°ƒç”¨
 #include <stdio.h>
 #include <math.h>
 
@@ -9,7 +10,7 @@ struct Point
 struct Point Input()
 {
 	struct Point point;
-	printf("ÇëÊäÈëÒ»¸ö×ø±êµãµÄÖµ£º\n");
+	printf("è¯·è¾“å…¥ä¸€ä¸ªåæ ‡ç‚¹çš„å€¼ï¼š\n");
 	scanf("%lf,%lf", &point.x, &point.y);
 	return point;
 }

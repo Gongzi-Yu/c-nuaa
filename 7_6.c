@@ -1,3 +1,4 @@
+// 辗转相除法求整型数组的最大公约数
 #include <stdio.h>
 
 int gcd(int x,int y)

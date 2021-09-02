@@ -1,3 +1,4 @@
+// 字符串逆向存放
 #include <stdio.h>
 
 void reverse(char s[])

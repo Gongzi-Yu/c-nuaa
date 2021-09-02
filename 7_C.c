@@ -1,5 +1,5 @@
+// 将两个字符串交叉复制，构成一个新的字符串
 #include <stdio.h>
-
 
 void interCross(char s1[], char s2[], char s3[])
 {

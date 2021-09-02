@@ -1,3 +1,4 @@
+// 将一个具有n个元素的数组循环左移k位
 #include <stdio.h>
 
 void moveLeft(int *a, int n)

@@ -1,3 +1,4 @@
+// 任意输入三个整数，按从小到大的顺序输出这三个整数
 #include<stdio.h>
 void exchange(int *pa,int *pb)
 {

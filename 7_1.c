@@ -1,3 +1,4 @@
+// 将Fibonacci数列的前20项存于数组，并求它们的和
 #include <stdio.h>
 
 int main()

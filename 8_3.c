@@ -1,3 +1,4 @@
+// 定义描述颜色的枚举类型，输出这 3 种颜色的全排列
 #include <stdio.h>
 
 enum color {RED,GREEN,BLUE};

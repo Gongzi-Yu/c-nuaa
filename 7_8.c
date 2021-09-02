@@ -1,3 +1,4 @@
+// éªŒè¯ç£åŠ›æ•°6174å’Œ495
 #include <stdio.h>
 
 int getbits(int n)
@@ -51,7 +52,7 @@ int combine(int a[], int k)
 int main()
 {
 	int oldn =-1,n,a[5],k,n1,n2;
-	printf("ÈÎÒâÊäÈëÒ»¸öËÄÎ»»òÈıÎ»Êın£¬×¢Òâ¸÷Î»Êı×Ö²»ÄÜÏàÍ¬£»\n");
+	printf("ä»»æ„è¾“å…¥ä¸€ä¸ªå››ä½æˆ–ä¸‰ä½æ•°nï¼Œæ³¨æ„å„ä½æ•°å­—ä¸èƒ½ç›¸åŒï¼›\n");
 	scanf("%d",&n);
 	k=getbits(n);
 	while(oldn!=n)

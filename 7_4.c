@@ -1,3 +1,4 @@
+// 冒泡排序法
 #include <stdio.h>
 
 #define N 6
@@ -19,10 +20,11 @@ int main()
 	int a[N],i;
 
 	printf("Please input %d number:\n",N);
-	for(i=0;i<N;i++)
-		scanf("%d",&a[i]);
+	for(i=0;i<N;i++) scanf("%d",&a[i]);
+
 	bubble_sort(a,N);
 	printf("sorted:\n");
+
 	for(i=0;i<N;i++) printf("%d\t",a[i]);
 	printf("\n");
 	return 0;

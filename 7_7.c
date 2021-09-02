@@ -1,3 +1,4 @@
+// 删除一个数组中的某个元素
 #include <stdio.h>
 
 void output(int a[], int n)

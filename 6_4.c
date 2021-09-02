@@ -1,3 +1,4 @@
+// 宏定义及宏的嵌套调用——求四个数的最小者
 #include <stdio.h>
 
 #define min2(x,y) (x)<=y?(x):y

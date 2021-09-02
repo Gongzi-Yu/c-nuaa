@@ -1,3 +1,4 @@
+// 求数组的最小值
 #include <stdio.h>
 
 int main()

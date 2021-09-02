@@ -1,3 +1,4 @@
+// 数组名做形参
 #include <stdio.h>
 
 int fsum(int *array,int n)

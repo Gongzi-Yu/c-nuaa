@@ -1,3 +1,4 @@
+// æ±‚nä¸ªæ•°çš„æ–¹å·®
 #include <stdio.h>
 #include <math.h>
 
@@ -35,7 +36,7 @@ double stddev(int a[],int n)
 int main()
 {
 	int a[100],n;
-	printf("ÇëÊäÈënµÄÖµ£¨n<=100£©:\n");
+	printf("è¯·è¾“å…¥nçš„å€¼ï¼ˆn<=100ï¼‰:\n");
 	scanf("%d",&n);
 	input(a,n);
 	printf("%lf",stddev(a,n));

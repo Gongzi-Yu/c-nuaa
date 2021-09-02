@@ -1,3 +1,4 @@
+// 用函数实现6_2的功能
 #include <stdio.h>
 #include <math.h>
 

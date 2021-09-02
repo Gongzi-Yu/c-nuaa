@@ -1,3 +1,4 @@
+// 复制字符串
 #include <stdio.h>
 
 void my_strcpy(char s1[], char s2[])
