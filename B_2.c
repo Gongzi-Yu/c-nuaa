@@ -1,3 +1,4 @@
+// 计算销售量的销售金额，统计销售总量和销售总金额
 #include<stdio.h>
 #include<stdlib.h>
 int main()

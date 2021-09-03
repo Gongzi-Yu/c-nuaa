@@ -1,3 +1,4 @@
+// 判断一个字符串是否为回文
 #include <stdio.h>
 #include <string.h>
 void filter(char *a)
@@ -21,13 +22,13 @@ int palin(char *a)
 	filter(b);
 	char* head = b, * tail = b;
 	int count = 1;
-	for (int i = 0; b[i] != 0; i++)
-		tail++;
+	for (int i = 0; b[i++] != 0; tail++);
+	tail--;
 	while (head < tail)
 	{
-		if (*head++ != *tail++) {
-			break;
+		if (*head++ != *tail--) {
 			count = 0;
+			break;
 		}
 	}
 	return count;

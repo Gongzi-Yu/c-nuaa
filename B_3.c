@@ -1,3 +1,4 @@
+// 从文件中读取数据，存入数组，转为升序，存入另一个数组
 #include<stdio.h>
 #include<stdlib.h>
 void sort(double *a,int n);

@@ -1,3 +1,4 @@
+// 合并两个文件的数据到第三个文件
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>

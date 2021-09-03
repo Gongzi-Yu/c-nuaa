@@ -1,3 +1,4 @@
+// 统计一个数组中正数和负数个数
 #include <stdio.h>
 
 void statistic( int *a, int n, int *posinum_ptr, int *neganum_ptr)

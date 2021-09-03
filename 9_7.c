@@ -1,3 +1,4 @@
+// 提取字符串中的数字
 #include <stdio.h>
 
 void getDigits(char *s1, char *s2)

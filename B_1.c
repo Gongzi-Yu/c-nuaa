@@ -1,3 +1,4 @@
+// 将1~100的平方、平方根输出到文件table.txt中
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>

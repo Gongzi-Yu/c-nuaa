@@ -1,3 +1,4 @@
+// 二进制数问题
 #include <stdio.h>
 
 int compare(int i)

@@ -1,3 +1,4 @@
+// 任意输入三个不含空格的字符串，按从小到大的顺序输出
 #include <stdio.h>
 #include <string.h>
 

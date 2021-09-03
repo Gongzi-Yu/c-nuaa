@@ -1,3 +1,4 @@
+// 将输入的英文单词中第一个字母变为大写
 #include <stdio.h>
 
 int isLetter(char c)

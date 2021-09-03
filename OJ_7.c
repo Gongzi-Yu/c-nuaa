@@ -1,3 +1,4 @@
+// 查找数组中的某个数
 #include <stdio.h>
 
 int main()

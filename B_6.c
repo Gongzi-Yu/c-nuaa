@@ -1,3 +1,4 @@
+// 实现文本文件的显示，通过键盘输入文件名
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>

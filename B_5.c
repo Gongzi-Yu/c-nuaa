@@ -1,3 +1,4 @@
+// 实现文件的复制，通过键盘输入源文件名和目标文件名
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
